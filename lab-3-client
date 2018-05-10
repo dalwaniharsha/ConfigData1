@@ -1,0 +1,6 @@
+---
+lucky-word: Today
+wordConfig:
+  lucky-word: Today
+  preamble: Hey this is Test User
+  testWord: Test Test
